@@ -1,0 +1,2 @@
+# TrippalMainRepo
+Development process
